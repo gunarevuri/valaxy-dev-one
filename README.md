@@ -1,1 +1,3 @@
-# valaxy-dev-one
+# maven-project
+
+Simple Maven Project
